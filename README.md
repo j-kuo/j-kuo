@@ -1,7 +1,7 @@
 - 👋 Hi! I’m @j-kuo (Jacky)
 - 🌱 I’m currently a biostatistics PhD cancdidate at the UT Health Science Center at Houston.
 - 👀 I’m interested in applied machine learning and its applications in public health!
-- ✨ Find me on LinkedIn: linkedin.com/in/j-kuo
+- ✨ Find me on LinkedIn: [linkedin.com/in/j-kuo](https://linkedin.com/in/j-kuo)
 - 📫 Or contact me at jacky.kuo@uth.tmc.edu
 
 <!---
